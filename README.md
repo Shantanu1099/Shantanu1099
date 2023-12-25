@@ -28,12 +28,13 @@ I am a fullstack developer from India 🇮🇳 I am working as a Software Engine
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Redis" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Nginx" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Nginx" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="RabbitMQ" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Bash Script" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Tailwind CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Datadog" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Tailwind CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Datadog" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
