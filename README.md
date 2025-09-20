@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey👋 I'm Shantanu Singh
 
-I am a full-stack developer with 3+ years of work experience from India 🇮🇳, currently working as a Senior Software Engineer at [Kanerika](https://kanerika.com/).
+I am a full-stack developer with 4+ years of work experience from India 🇮🇳, currently working as a Senior Software Engineer at [Kanerika](https://kanerika.com/).
 
 ### Currently I am working with ...
 
