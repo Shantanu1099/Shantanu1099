@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 ## Hey👋 I'm Shantanu Singh
 
 I am a full-stack developer with 5 years of work experience from India 🇮🇳, currently working as a Software Engineer at [Amgen](https://amgen.com/).
-
-<a href="https://www.linkedin.com/in/shanu-1099/" target="_blank" title="Shantanu Singh" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sshantanuthakur" target="_blank" title="sshantanuthakur" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:sshantanuthakur1099@gmail.com" target="_blank" title="sshantanuthakur1099@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
